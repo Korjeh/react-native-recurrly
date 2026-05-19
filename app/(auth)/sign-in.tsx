@@ -5,7 +5,7 @@ import {Link} from "expo-router"
 const SignIn = () => {
     return (
         <View>
-            <Text>Onboarding</Text>
+            <Text>Tomorrow</Text>
             <Link href="/(auth)/sign-up">Create Account</Link>
         </View>
     )
